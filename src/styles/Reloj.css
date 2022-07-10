@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,500&display=swap');
+.Reloj-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-size: 70px;
+    color: rgb(206, 196, 183);
+}
+.LineaDivisora{
+    background-color: white;
+    height: 3px;
+    width: 900px;
+    margin-top: 15px;
+}
+
+.button-container{
+    margin-top: 40px;
+    
+}
+
+.Button-detener{
+    padding: 10px;
+    border-radius: 25px;
+    background-color: #9e0a0a;
+    color: #fff;
+    cursor: pointer;
+}
+.Button-mostrar{
+    padding: 10px;
+  border-radius: 25px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+
+}
+
+
+
