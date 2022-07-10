@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.04eedad6.css",
-    "main.js": "/repository-name/static/js/main.151a01be.js",
-    "index.html": "/repository-name/index.html",
-    "main.04eedad6.css.map": "/repository-name/static/css/main.04eedad6.css.map",
-    "main.151a01be.js.map": "/repository-name/static/js/main.151a01be.js.map"
+    "main.css": "/Digital-clock-React/static/css/main.04eedad6.css",
+    "main.js": "/Digital-clock-React/static/js/main.151a01be.js",
+    "index.html": "/Digital-clock-React/index.html",
+    "main.04eedad6.css.map": "/Digital-clock-React/static/css/main.04eedad6.css.map",
+    "main.151a01be.js.map": "/Digital-clock-React/static/js/main.151a01be.js.map"
   },
   "entrypoints": [
     "static/css/main.04eedad6.css",
